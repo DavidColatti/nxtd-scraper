@@ -1,50 +1,21 @@
-id,business_name,phone_number,email,zip,category
-23201141,Kaitlynn's House Cleanings,(520) 306-6519,white.kaitlynn@rocketmail.com,95630,Housekeeper or maid service
-23201148,Innovative Countertops,702-350-1580,innovative.countertopsnv@gmail.com,"",Kitchen & bath store
-23201150,CZ’S Landscaping,860-368-8937,cpehowdy@yahoo.com,06237,Lawn service
-23201151,Lea Ann Fugate,(832) 392-5313,SimplifyYourChoices@gmail.com,77447,Insurance agent
-23201155,Jr Stump Grinding,360-710-6625,jmattjr@comcast.net,98465,Lawn service
-23201158,Kyoto Kimono LLC,607-765-3960,nancy@kyotokimono.com,13760,Women's clothing store
-23201162,"Inspired Learning, Llc",(985) 640-5990,"",70458,Tutor
-23201163,Semper Fi Ac And Heating,(951) 214-0343,"","",Air conditioning service
-23201172,Lotus Bakery,"","",91340,Bakery
-23201179,Drainage Solution Professionals,"","",70806,Drainage service
-23201187,Persia Nelson,(916) 212-6218,"","",Dog walker
-23201190,Rahu's Ocean Refuge,(707) 684-0317,"",95459,Vacation rental
-23201191,Precision Auto Glass in Columbia,"","",21045,Auto glass service
-23201192,Lovinglyhome Llc,210-954-6056,Lovingly_home@aol.com,78238,Assisted living/adult care
-23201193,Thomasons Herb Farm And Gift Shop,717-624-1527,thomasonsherbfarm@gmail.com,17316,Home and garden
-23201202,Local Tutor,(303) 503-6376,davidluongo44@gmail.com,80007,Tutor
-23201217,Real Living Action Realty,(610) 691-1777,"",18045,Real estate agent
-23201220,Machak Electric LLC,"","",15021,Electrician
-23201223,Noteworthy Music Lessons Llc,(719) 216-3177,Rebeccapianogirl@gmail.com,"",Music and singing instructor
-23201227,Brent Leftwich,(804) 869-2798,"","",Stone mason
-23201233,Nancy Mcdonough,(607) 232-4702,godoggo607@gmail.com,13760,Pet sitter
-23201245,Modern Renovations LLC,"","",21740,Roofer
-23201249,Tiffany Flowers Real Estate with Coldwell Banker,(626) 808-6928,tiffany.flowers@cbrealty.com,91316,Real estate agent
-23201254,Heartstrings Wank Soul Food Restaurant,"","",30642,Restaurant
-23201266,Burgos Lawn Service,(407) 927-2480,burgoslawn@yahoo.com,"",Lawn service
-23201271,T-Mobile,"","",80905,Cellular service
-23201273,Shoe Repair Plus,"","",08003,Shoe repair
-23201276,Ram Remodeling & Home Improvements,"","",60152,Siding installation
-23201288,Alessandra Marques Cleaning Services,404-707-5203,claudino_marques@hotmail.com,30067,House cleaning service
-23201308,Cooper Plumbing & Heating LLC,(720) 258-5067,coopersong2017@gmail.com,"",Plumber
-23201309,Laila Adarkar,(510) 599-1548,8lailaadarkar@gmail.com,94611,Personal assistant
-23201316,Hamilton's Tavern 1840,"","",25425,Restaurant
-23201322,Bowens Home Repair,(678) 696-0346,bowenshomerepair@gmail.com,"",General contractor
-23201328,YMCA Gymnastics Center,"","",90712,Gymnastics
-23201335,Kerrys Home Repair,(281) 773-0750,kshaneyfelt0750@gmail.com,77025,Handyman
-23201337,Rock Candy Pendants,925-812-1482,rockcandypendants@yahoo.com,94553,Jewelry repair
-23201338,Obstacle Ninja Academy,"","",32819,Gym
-23201341,Highlights Chicago Electrical Services,"","",60659,Electrician
-23201349,Biz Closed 98555,(770) 985-6622,"",80203,Caterer
-23201354,Go Dog Go,607-232-4702,godoggo607@gmail.com,13760,Dog walker
-23201356,Certified Auto & Light Truck Repair - Auto Repair Shop & Maintenance,"","",55075,Auto mechanic
-23201361,Josh Williams,(817) 805-5420,c3futures32@gmail.com,76182,Personal assistant
-23201365,Mark Loughran,(703) 470-0318,mark350v8@yahoo.com,22015,Handyman
-23201370,In The Mix Bakery llc,3048108100,"","",Bakery
-23201375,Utopia Pool Service Llc,(561) 281-5800,"",33411,Pool cleaner
-23201379,Chisolm Studios,"","",43023,Photographer
-23201381,Bob Barnes,"",bobbarnes7@icloud.com,95842,Landscape contractor
-23201389,Snell's Pharmacy,"","",30078,Pharmacy
-23201391,"D. B. Norton, PLLC","","",77092,Lawyer
+id,business_name,phone_number,email,zip,category,page_created
+32982382,YY Jewelry Design,+18185350780,yyjewelrydesign@gmail.com,89128,Accessories store,11/17/2020
+32982383,"Seana Dean, MD","","",73115,Pediatrician,11/17/2020
+32982393,The Calligraphy Girl,"","",95816,Artist,11/17/2020
+32982397,African Print Takeover llc,+12062282845,africanprinttakeover@gmail.com,98144,Accessories store,11/17/2020
+32982398,Rock Cliff Creations of Indy Pool and Water Features LLC,"","",46069,Pool builder,11/17/2020
+32982406,Doggie Styles,+15392085458,philip@doggiestyles.dog,74055,Dog groomer,11/17/2020
+32982408,"The Lewis Firm, LLC",+12066047269,duncanives@comcast.net,98198,Lawyer,11/17/2020
+32982413,Charmy’s,+16144001782,rezi.bayegan@gmail.com,43201,Food/grocery delivery,11/17/2020
+32982418,Spell It Out New Jersey,+19088037921,spellitoutnewjersey@gmail.com,07945,Party entertainment,11/17/2020
+32982427,Highline Detail,"",highlinedetailaz@gmail.com,85286,Auto detailer,11/17/2020
+32982428,Richmond Heating and Air Services,+18044052055,jasonu@richmondheatingandac.com,23114,Air conditioning service,11/17/2020
+32982430,beelove,"","",60624,Specialty food store,11/17/2020
+32982434,"Russell Bikoff, Attorney And Counselor At Law",+17038633134,rab@bikofflaw.com,20036,Counselor,11/17/2020
+32982435,"Tamila Selitsky, OB-GYN P.C.","","",11228,Ob/Gyn,11/17/2020
+32982440,Christina Pilates & Movement,+19175318772,christina@pilatesmovement.net,94102,Pilates,11/17/2020
+32982448,Dance Time Studio And Wellness Center,+16024862082,brigette2@cox.net,85254,Dance club,11/17/2020
+32982453,Art By Hilda,+19193277760,hildaeakins@gmail.com,27615,Artist,11/17/2020
+32982457,Codeworks Plumbing(C.M.Wall),+12067558387,codeworksplumbing@gmail.com,98036,Water softeners,11/17/2020
+32982458,Designing Chi,+15209094784,msv@designingchi.com,85340,Alternative wellness,11/17/2020
+32982463,"Alex Grener, St. Augustine REALTOR",+17573351906,agrener@watsonrealtycorp.com,32086,Real estate agent,11/17/2020
